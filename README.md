@@ -1,16 +1,31 @@
-# joken_flutter
+# JokenFlutter
+> O famoso jogo Pedra, Papel e Tesoura utilizando o framework Flutter.
 
-A new Flutter project.
+Projeto para estudo do framework Flutter e da linguagem Dart.
 
-## Getting Started
+Apresenta três opções de escolha para o usuário e a seguir valida se a opção aleatória selecionada pelo App vence, perde ou empata, apresentando o resultado no final.
 
-This project is a starting point for a Flutter application.
+Conteúdo estudado e implementado neste App: componentes de interface, base scaffold, widgets statefull/stateless, atualização de estado e gesture detector.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot Android:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="android-screenshot-1.png" width="320" height="658"/>
+<img src="android-screenshot-2.png" width="320" height="658"/>
+<img src="android-screenshot-3.png" width="320" height="658"/>
+<img src="android-screenshot-4.png" width="320" height="658"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot iOS:
+
+<img src="ios-screenshot-1.png" width="320" height="693"/>
+<img src="ios-screenshot-2.png" width="320" height="693"/>
+<img src="ios-screenshot-3.png" width="320" height="693"/>
+<img src="ios-screenshot-4.png" width="320" height="693"/>
+
+## Histórico de Atualizações:  
+
+* 20221107:
+    * Versão inicial.
+
+## Links:
+
+[https://github.com/danielperesjr/JokenFlutter](https://github.com/danielperesjr/JokenFlutter)
